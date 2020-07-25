@@ -1,1 +1,2 @@
 The Operating System (OS) manages the primary or main memory - most often known as the RAM.  The OS keeps track of whichbytes are being used by which user program.  The OS also decides the order in which processes are granted access to the memory and for how long.  
+The OS also provides processor management.  In a function known as scheduling, the OS decides the order processes have access to the processor and how much processing time each process has.  The OS keeps track of the status of processes via the traffic controller program.  
